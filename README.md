@@ -4,6 +4,13 @@
 
 Template containing eslint config and prettir config.
 
+### Nest.js Initialization
+
+Simple run:
+```bash
+npx create-next-app@latest -e https://github.com/Architech-AI/nextjs-config
+```
+
 ### Development
 
 First, run the development server:
